@@ -6,7 +6,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+
 auto{}
+ok pa
 
 
 public class AssertionsDemo {
@@ -21,7 +23,8 @@ driver.get("http://demowebshop.tricentis.com/login");
 driver.manage().window().maximize();
 
 String actualtitle=driver.getTitle();
-System.out.println(actualtitle);
+System.out.println(actualtitle); 
+ system
 
 Assert.assertEquals(actualtitle, "Demowebstore");
 
