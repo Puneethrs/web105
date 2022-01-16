@@ -7,8 +7,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 
-auto{}
-ok pa
+//banglore is good city
 
 
 public class AssertionsDemo {
