@@ -16,6 +16,7 @@ import org.testng.annotations.Test;
 
 <..big..>
 
+finall
 
 public class AleartDemo {
 	WebDriver driver;
